@@ -1,7 +1,7 @@
 # BOOK-SCRAPER
 ## About the Project
 This project is about how we can change a live webpage into a CSV file by using requests, BeautifulSoup and CSV. The site name is [Books to Scrape](https://books.toscrape.com) and the four facts are title, price, rating, stock which I saved in 'books.csv'.
-![alt text](Screenshot.png)
+![books.csv opened as a table](Screenshot.png)
 ## How to run it 
 On Windows, run these in cmd:
 ```
